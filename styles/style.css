@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    border: 1px grey solid;
+    opacity: 80%;
+}
